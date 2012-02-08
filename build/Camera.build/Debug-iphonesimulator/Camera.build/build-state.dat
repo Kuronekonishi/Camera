@@ -1,0 +1,261 @@
+TCamera
+v7
+r0
+t322594461.065342
+cCheck dependencies
+cProcessInfoPlistFile /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Info.plist Camera-Info.plist
+cCompileXIB /Users/d_hellnishi/Dropbox/develop/Camera/MainWindow.xib
+cCompileXIB /Users/d_hellnishi/Dropbox/develop/Camera/CameraViewController.xib
+cProcessPCH /var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch.gch Camera_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o /Users/d_hellnishi/Dropbox/develop/Camera/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera normal i386
+cGenerateDSYMFile /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app.dSYM /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera
+cTouch /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/CameraViewController.xib
+c000000004D8A26B30000000000004F4B
+t1300899507
+s20299
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/Camera_Prefix.pch
+c000000004D8A221500000000000000B5
+t1300898325
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.h
+c000000004D8A221500000000000001DB
+t1300898325
+s475
+i<UIKit/UIKit.h>
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.m
+c000000004D8A22150000000000000AA7
+t1300898325
+s2727
+i"CameraAppDelegate.h"
+i"CameraViewController.h"
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.h
+c000000004D8A27F1000000000000011C
+t1300899825
+s284
+i<UIKit/UIKit.h>
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m
+c000000004D8A2F1B0000000000000D39
+t1300901659
+s3385
+i"CameraViewController.h"
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/MainWindow.xib
+c000000004D8A22150000000000004E1D
+t1300898325
+s19997
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/Camera.LinkFileList
+c000000004D8A234C000000000000018E
+t1300898636
+s398
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o
+t1300899826
+s51264
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o
+t1300901660
+s50184
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o
+t1300898640
+s6316
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app
+t1300901661
+s238
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app.dSYM
+t1300901661
+s102
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera
+t1300901660
+s17996
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/CameraViewController.nib
+t1300899510
+s1970
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Info.plist
+t1300898636
+s587
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/MainWindow.nib
+t1300898637
+s1679
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/PkgInfo
+t1300898636
+s8
+
+N/Users/d_hellnishi/Dropbox/develop/Camera/main.m
+c000000004D8A2216000000000000016A
+t1300898326
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch.gch
+t1300898640
+s15814064
+
+NCamera-Info.plist
+c000000004D8A2215000000000000038D
+t1300898325
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322594460#322594460#0(0"0(0#1#0"8616080384#0"0#
+
+CCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322592626.230087
+e322592626.479521
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o
+x/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.m322592626#322592626#0(0"0(0#0#69"/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.m8615056512#1961"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap -F/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/include -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386 -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources -include /var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch -c /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraAppDelegate.m -o /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraAppDelegate.o0#
+
+CCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322594460.192143
+e322594460.781538
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o
+x/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m: In function '-[CameraViewController showCameraSheet]':
+o/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m:74: warning: class 'CameraViewController' does not implement the 'UIActionSheetDelegate' protocol
+o/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m: In function '-[CameraViewController actionSheet:clickedButtonAtIndex:]':
+o/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m:114: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)
+o/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m:115: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol
+lSLF07#2@80"Compile /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m322594460#322594460#0(932"/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m: In function '-[CameraViewController showCameraSheet]':/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m:74: warning: class 'CameraViewController' does not implement the 'UIActionSheetDelegate' protocol/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m: In function '-[CameraViewController actionSheet:clickedButtonAtIndex:]':/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m:114: warning: 'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m:115: warning: class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol3(22@84"Class 'CameraViewController' does not implement the 'UIActionSheetDelegate' protocol322594460#129#171#0(6@72"/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m322594459#74#0#74#0#45"class '*' does not implement the '*' protocol0(22@216"'setAllowsImageEditing:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h:110)322594460#447#304#0(6@72"/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m322594459#114#0#114#0#33"'*' is deprecated (declared at *)0(22@93"Class 'CameraViewController' does not implement the 'UINavigationControllerDelegate' protocol322594460#751#181#0(6@72"/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m322594459#115#0#115#0#45"class '*' does not implement the '*' protocol0(0#0#72"/Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m8614421984#1967"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap -F/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/include -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386 -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources -include /var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch -c /Users/d_hellnishi/Dropbox/develop/Camera/Classes/CameraViewController.m -o /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/CameraViewController.o0#
+
+CCompileC build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o /Users/d_hellnishi/Dropbox/develop/Camera/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322591440.133446
+e322591440.252010
+r1
+xCompileC
+xbuild/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o
+x/Users/d_hellnishi/Dropbox/develop/Camera/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/d_hellnishi/Dropbox/develop/Camera/main.m322591440#322591440#0(0"0(0#0#48"/Users/d_hellnishi/Dropbox/develop/Camera/main.m8606916192#1927"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap -F/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/include -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386 -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources -include /var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch -c /Users/d_hellnishi/Dropbox/develop/Camera/main.m -o /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/d_hellnishi/Dropbox/develop/Camera/CameraViewController.xib
+s322592309.376213
+e322592310.280078
+r1
+xCompileXIB
+x/Users/d_hellnishi/Dropbox/develop/Camera/CameraViewController.xib
+lSLF07#2@35"CompileXIB CameraViewController.xib322592309#322592310#0(0"0(0#0#66"/Users/d_hellnishi/Dropbox/develop/Camera/CameraViewController.xib8614982112#598"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/CameraViewController.nib /Users/d_hellnishi/Dropbox/develop/Camera/CameraViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/d_hellnishi/Dropbox/develop/Camera/MainWindow.xib
+s322591436.254878
+e322591437.808982
+r1
+xCompileXIB
+x/Users/d_hellnishi/Dropbox/develop/Camera/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322591436#322591437#0(0"0(0#0#56"/Users/d_hellnishi/Dropbox/develop/Camera/MainWindow.xib8607178336#578"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/MainWindow.nib /Users/d_hellnishi/Dropbox/develop/Camera/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app.dSYM /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera
+s322594460.884851
+e322594461.049672
+r1
+xGenerateDSYMFile
+x/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app.dSYM
+x/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Camera.app.dSYM build/Debug-iphonesimulator/Camera.app/Camera322594460#322594461#0(0"0(0#0#87"/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera8617573440#389"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera -o /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app.dSYM0#
+
+CLd /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera normal i386
+s322594460.782130
+e322594460.884707
+r1
+xLd
+x/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera
+xnormal
+xi386
+lSLF07#2@92"Link /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera322594460#322594460#0(0"0(0#0#0"8606408384#910"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator -F/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator -filelist /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Objects-normal/i386/Camera.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Camera0#
+
+CProcessInfoPlistFile /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Info.plist Camera-Info.plist
+s322591436.153503
+e322591436.254713
+r1
+xProcessInfoPlistFile
+x/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Info.plist
+xCamera-Info.plist
+lSLF07#2@25"Process Camera-Info.plist322591436#322591436#0(0"0(0#0#59"/Users/d_hellnishi/Dropbox/develop/Camera/Camera-Info.plist29555065834897524#485"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Camera-Info.plist -genpkginfo /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app/Info.plist0#
+
+CProcessPCH /var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch.gch Camera_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322591437.865753
+e322591440.133157
+r1
+xProcessPCH
+x/var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch.gch
+xCamera_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Camera_Prefix.pch322591437#322591440#0(0"0(0#0#59"/Users/d_hellnishi/Dropbox/develop/Camera/Camera_Prefix.pch8607851296#1817"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-generated-files.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-own-target-headers.hmap -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-all-target-headers.hmap -iquote /Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/Camera-project-headers.hmap -F/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/include -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources/i386 -I/Users/d_hellnishi/Dropbox/develop/Camera/build/Camera.build/Debug-iphonesimulator/Camera.build/DerivedSources -c /Users/d_hellnishi/Dropbox/develop/Camera/Camera_Prefix.pch -o /var/folders/Kx/Kx35Tuk8HFi2vDUPkSsZNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Camera_Prefix-bhnryztzxjfnkcavyvbrxpqntucn/Camera_Prefix.pch.gch0#
+
+CTouch /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app
+s322594461.049799
+e322594461.065277
+r1
+xTouch
+x/Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app
+lSLF07#2@86"Touch /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app322594461#322594461#0(0"0(0#0#0"8614797536#283"    cd /Users/d_hellnishi/Dropbox/develop/Camera    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/d_hellnishi/Dropbox/develop/Camera/build/Debug-iphonesimulator/Camera.app0#
+
